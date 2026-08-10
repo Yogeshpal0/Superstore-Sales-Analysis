@@ -51,19 +51,23 @@ The project includes data cleaning and analysis using Python, SQL-based business
 - Identified top customers and products based on sales and profit
 - Analyzed shipping modes and delivery performance
 
-## Project Structure
-
 Superstore-Sales-Analysis/
-├── Python/
-│   └── superstore_sales_analysis.py
-├── SQL/
-│   └── superstore_sales_analysis.sql
-├── PowerBI/
-│   └── Retail_Sales_Dashboard.pbix
-├── Data/
-│   └── clean_superstore.csv
+│
 ├── Dashboard/
 │   └── Retail_Sales_Dashboard.png
+│
+├── Data/
+│   └── clean_superstore.csv
+│
+├── PowerBI/
+│   └── Retail_Sales_Dashboard.pbix
+│
+├── Python/
+│   └── superstore_sales_analysis.py
+│
+├── SQL/
+│   └── superstore_sales_analysis.sql
+│
 └── README.md
 
 ## How to Run
